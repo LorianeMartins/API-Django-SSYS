@@ -19,7 +19,7 @@ Etapa não cumprida:
     - GET /reports/employees/salary/ (salary report)
     - GET /reports/employees/age/ (age report)
 
-Bônus² (opcional): Foi realizado o deploy da aplicação com Heroku, com o seguinte link de acesso: 
+Bônus² (opcional): Foi realizado o deploy da aplicação com Heroku, segue o link de acesso: 
 https://apiemployees.herokuapp.com/
 
 - Observação: 
