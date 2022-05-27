@@ -24,7 +24,7 @@ https://apiemployees.herokuapp.com/
 
 - Observação: 
     - Para testar a aplicação, clone o repositório e instale todas as dependências do django no seu ambiente virtual, como descrito em requirements.txt. 
-    - Nessa aplicação, utilizou-se também o Insomnia para testar o funcionamento da API e gerar o token de acesso.Assim, no método POST, utilizou-se a rota localhost:8000/token/ com a criação de uma variável JSON, descrita no arquivo acess_token.txt. 
-    - Após gerar o token, foi possível utilizar o "acess" no método GET, contendo no Header: 
+    - Nessa aplicação, utilizou-se também o Insomnia para testar o funcionamento da API e gerar o token de acesso.  Assim, no método POST, utilizou-se a rota localhost:8000/token/ com a criação de uma variável JSON, descrita no arquivo acess_token.txt. 
+    - Após gerar o token, foi possível utilizar o "acess" no método GET, rota localhost:8000/employees/, contendo no Header: 
         - Authorization 
         - Bearer "acess"
